@@ -11,7 +11,7 @@ public class A1 {
     }
 	public static void main(String[] args) {
 	A1 ob=new A1();
-
+	
 	}
 
 }
